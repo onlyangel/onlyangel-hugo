@@ -1,10 +1,7 @@
 +++
 date = "2015-05-13T13:24:28-05:00"
-draft = true
-title = "first"
+title = "This is the fist post with gohugo.io"
 
 +++
 
-## Muajajajajajajajaj
-
-Other content 
+Thanks for the support and

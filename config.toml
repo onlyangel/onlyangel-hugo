@@ -1,3 +1,23 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://onlyangel.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "OnlyAngel Place"
+description = "This is my hugo compiled blog"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+author = "Jose Angel Espinoza Portillo"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Jose Angel Espinoza Portillo"
+  github = "onlyangel"
+  twitter = "onlyangel"
+  email = "jose@ngel.es"
+  description = "This is my hugo compiled blog (params)"
+  linkedin = "joseangelespinozaportillo"
+[permalinks]
+    post = "/:year/:month/:filename/"
+    code = "/:filename/"
