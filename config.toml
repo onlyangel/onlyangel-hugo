@@ -21,3 +21,23 @@ author = "Jose Angel Espinoza Portillo"
 [permalinks]
     post = "/:year/:month/:filename/"
     code = "/:filename/"
+
+
+[Params.Header]
+
+    name = "Jose Angel Espinoza Portillo"
+    description = "Programador"
+    email = "jose@ngel.es"
+    image = "path/to/your/header/image"
+
+[Params.Footer]
+
+    [[Params.Footer.List]]
+
+        icon_class = "twitter"
+        icon_link = "https://www.twitter.com/onyangel"
+
+    [[Params.Footer.List]]
+
+        icon_class = "github"
+        icon_link = "https://www.github.com/onlyangel"
