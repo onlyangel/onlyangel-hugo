@@ -1,4 +1,4 @@
-baseurl = "https://a.ngel.es/"  # End your URL with a `/` trailing slash.
+baseurl = "http://a.ngel.es/"  # End your URL with a `/` trailing slash.
 title = ""
 copyright = "&copy; 2017 Jose Angel Espinoza Portillo"
 theme = "academic"
@@ -136,7 +136,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "google-plus"
     icon_pack = "fa"
-    link = "google.com/+onlyangel"
+    link = "//google.com/+onlyangel"
 
   [[params.social]]
       icon = "github"
