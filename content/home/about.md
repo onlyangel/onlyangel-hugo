@@ -13,30 +13,27 @@ weight = 1
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "BlockChain",
+    "Genetic Algorithms",
+    "Google Tech/Cloud",
+    "Mobile Development",
+    "Social Media Management",
+    "Spirituality"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "M in Computational Sciences"
+  institution = "Centro de Investigacion y Estudio Avanzados (CINVESTAV) del IPN"
+  year = "2007 HACKED"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Ingenieria en Sistemas Computacionales"
+  institution = "Universidad del Valle de Mexico Campus Villahermosa"
+  year = 2005
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Angel Espinoza is a professional entrepreneur with experience in mobile computing and innovation technological innovation in general. He is the CTO of two startups one scpecialiced in Applied Criptography and other in Computer Vision and document counterfeit prevention.

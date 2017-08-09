@@ -17,6 +17,8 @@ url_project = "project/deep-learning/"
 url_slides = ""
 url_video = ""
 
+draft = true
+
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
