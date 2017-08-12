@@ -10,7 +10,7 @@ tags = ["machine-learning","deep-learning","social-media","bots"]
 summary = ""
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "project/intelligent-bots/preview.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,7 +23,7 @@ highlight = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "project/intelligent-bots/header.jpg"
 caption = ""
 
 +++
